@@ -1,1 +1,3 @@
-# slowtype: the slower typer \n\nusage: ./slowtpye <txt file>
+# slowtype: the slower typer
+
+usage: ./slowtpye <txt file>
